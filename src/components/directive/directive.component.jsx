@@ -56,5 +56,4 @@ class Directive extends React.Component {
     }
 }
 
-
 export default Directive;
